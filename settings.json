@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "H2N.DEV",
+    "username": "LiveInPeace",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "HaiLord1207.aternos.me",
-    "port": 30869,
-    "version": "1.19.3"
+    "ip": "the8ghzlethal;hvh.aternos.me",
+    "port": 44725,
+    "version": "1.8.8"
   },
 
   "position": {
@@ -36,9 +36,8 @@
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
+        "My owner is Forrest ",
         "I want be alone ",
-        "Visit my Youtube page! (https://youtube.com/@H2N_OFFICIAL)"
       ]
     },
 
